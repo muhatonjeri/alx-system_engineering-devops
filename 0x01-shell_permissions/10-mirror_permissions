@@ -1,1 +1,2 @@
 #!/bin/bash
+chmo --reference olleh hello
