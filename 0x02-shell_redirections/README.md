@@ -1,1 +1,1 @@
-Write a script that displays the third line of the file iacta
+ontaining the text Best School ending by a new line.
